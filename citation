@@ -4,6 +4,10 @@ title: "AICS: Intrusion Detection Using Knowledge Graphs"
 authors:
   - family-names: "Mukherjee"
     given-names: "Triyan"
+  - family-names: "Srivastava"
+    given-names: "Shreyash"
+  - family-names: "Pendyala"
+    given-names: "Gnana Sai"
 repository-code: "https://github.com/FallenDeity/AICS_FISAC"
 license: "MIT"
 keywords:
